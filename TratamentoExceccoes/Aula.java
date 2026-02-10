@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author ThainaRibeiroBairros
+ * @author ThainaRibeiro
  */
 public class Aula {
 
@@ -46,6 +46,7 @@ public class Aula {
         }
     }
 }
+
 
 
 
