@@ -7,7 +7,7 @@ package ExercicioEndereco;
 
 /**
  *
- * @author ThainaRibeiroBairros
+ * @author ThainaRibeiro
  */
 public class Escola {
     public Escola(){}//construtor
@@ -48,4 +48,5 @@ public class Escola {
             
       protected void finalize() {  }//Descontrutor
 }
+
 
