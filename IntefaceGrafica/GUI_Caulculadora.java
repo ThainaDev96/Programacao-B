@@ -7,7 +7,7 @@ package IntefaceGrafica;
 
 /**
  *
- * @author ThainaRibeiroBairros
+ * @author ThainaRibeiro
  */
 public class GUI_Caulculadora extends javax.swing.JFrame {
 
