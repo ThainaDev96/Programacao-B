@@ -7,7 +7,7 @@ package ExercicioEndereco;
 
 /**
  *
- * @author ThainaRibeiroBairros
+ * @author ThainaRibeiro
  */
 public class Sala {
     public Sala(){}//construtor
@@ -37,3 +37,4 @@ public class Sala {
    
     protected void finalize() {  }//Descontrutor
 }
+
