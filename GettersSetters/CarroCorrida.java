@@ -7,7 +7,7 @@ package GettersSetters;
 
 /**
  *
- * @author ThainaRibeiroBairros
+ * @author ThainaRibeiro
  */
 public class CarroCorrida {
     //Estado
@@ -22,4 +22,5 @@ public class CarroCorrida {
             this.numeroIdentificacao = numeroIdentificacao+15;//faz refencia ao objeto
 }
 }
+
 
