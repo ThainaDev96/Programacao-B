@@ -10,7 +10,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author ThainaRibeiroBairros
+ * @author ThainaRibeiro
  */
 public class appCalculadora {
 
@@ -37,4 +37,5 @@ public class appCalculadora {
     }
     }
     
+
 
