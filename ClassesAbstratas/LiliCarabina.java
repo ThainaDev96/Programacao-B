@@ -7,7 +7,7 @@ package ClassesAbstratas;
 
 /**
  *
- * @author ThainaRibeiroBairros
+ * @author ThainaRibeiro
  */
 public class LiliCarabina extends ABS_Pessoa{ // ao criar lili carabina vou pegar tudo que está em abs pessoa
     public void Cadastrar (String nome){ //subclasse aqui estamos fazendo o que a classe abstrata pede
@@ -18,3 +18,4 @@ public class LiliCarabina extends ABS_Pessoa{ // ao criar lili carabina vou pega
         System.out.println("vamos cadastrar");
     }
 }
+
