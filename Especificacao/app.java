@@ -7,7 +7,7 @@ package Especificacao;
 
 /**
  *
- * @author ThainaRibeiroBairros
+ * @author ThainaRibeiro
  */
 public class app {
 
@@ -31,3 +31,4 @@ public class app {
     }
     
 }
+
