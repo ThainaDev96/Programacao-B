@@ -7,8 +7,9 @@ package ExercicioEndereco;
 
 /**
  *
- * @author ThainaRibeiroBairros
+ * @author ThainaRibeiro
  */
 public class SVN {
     
 }
+
