@@ -7,10 +7,11 @@ package GettersSetters;
 
 /**
  *
- * @author ThainaRibeiroBairros
+ * @author ThainaRibeiro
  */
 public class ClassePublica {
     //public String nome = ""; //isso é uma classe publica 
     
     
 }
+
