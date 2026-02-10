@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author ThainaRibeiroBairros
+ * @author ThainaRibeiro
  */
 public class AulaTratamento {
 
@@ -44,4 +44,5 @@ public class AulaTratamento {
             JOptionPane.showMessageDialog(null,"Ocorreu um erro");
         }
     }
+
 }
