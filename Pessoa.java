@@ -6,7 +6,7 @@
 
 /**
  *
- * @author ThainaRibeiroBairros
+ * @author ThainaRibeiro
  */
 public class Pessoa {
     public Pessoa(){}//construtor(fica sempre no topo do projeto)
@@ -55,3 +55,4 @@ public class Pessoa {
     }
 
 }
+
