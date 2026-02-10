@@ -7,7 +7,7 @@ package SiteFilmes;
 
 /**
  *
- * @author ThainaRibeiroBairros
+ * @author ThainaRibeiro
  */
 public class Arquivo {
   //Atributos
@@ -19,3 +19,4 @@ public class Arquivo {
        
     
 }
+
