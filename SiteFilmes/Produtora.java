@@ -7,7 +7,7 @@ package SiteFilmes;
 
 /**
  *
- * @author ThainaRibeiroBairros
+ * @author ThainaRibeiro
  */
 public class Produtora {
     int idProdutora= 0;
@@ -15,3 +15,4 @@ public class Produtora {
     String descricao=" ";
     
 }
+
