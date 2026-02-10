@@ -7,7 +7,7 @@ package GettersSetters;
 
 /**
  *
- * @author ThainaRibeiroBairros
+ * @author ThainaRibeiro
  */
 public class ChamaClasse {
 
@@ -26,3 +26,4 @@ public class ChamaClasse {
     }
     
 }
+
