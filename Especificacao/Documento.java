@@ -7,7 +7,7 @@ package Especificacao;
 
 /**
  *
- * @author ThainaRibeiroBairros
+ * @author ThainaRibeiro
  */
 public class Documento {
     //atributos
@@ -18,3 +18,4 @@ public class Documento {
   
     
 }
+
