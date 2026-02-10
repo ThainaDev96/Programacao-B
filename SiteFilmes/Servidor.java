@@ -7,7 +7,7 @@ package SiteFilmes;
 
 /**
  *
- * @author ThainaRibeiroBairros
+ * @author ThainaRibeiro
  */
 public class Servidor {
     
@@ -18,3 +18,4 @@ public class Servidor {
        
     
 }
+
