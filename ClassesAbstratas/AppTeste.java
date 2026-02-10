@@ -7,7 +7,7 @@ package ClassesAbstratas;
 
 /**
  *
- * @author ThainaRibeiroBairros
+ * @author ThainaRibeiro
  */
 public class AppTeste {
 
@@ -23,3 +23,4 @@ public class AppTeste {
     }
     
 }
+
