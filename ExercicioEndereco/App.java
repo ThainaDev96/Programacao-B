@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author ThainaRibeiroBairros
+ * @author ThainaRibeiro
  */
 public class App {
 
@@ -74,4 +74,5 @@ public class App {
    
     
     
+
 
