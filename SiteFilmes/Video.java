@@ -7,7 +7,7 @@ package SiteFilmes;
 
 /**
  *
- * @author ThainaRibeiroBairros
+ * @author ThainaRibeiro
  */
 public class Video {
     
@@ -16,3 +16,4 @@ public class Video {
        int id = 0;
     
 }
+
