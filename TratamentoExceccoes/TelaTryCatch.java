@@ -7,7 +7,7 @@ package TratamentoExceccoes;
 
 /**
  *
- * @author ThainaRibeiroBairros
+ * @author ThainaRibeiro
  */
 public class TelaTryCatch extends javax.swing.JFrame {
 
