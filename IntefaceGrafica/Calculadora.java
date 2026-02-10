@@ -7,7 +7,7 @@ package IntefaceGrafica;
 
 /**
  *
- * @author ThainaRibeiroBairros
+ * @author ThainaRibeiro
  */
 public class Calculadora {
 
@@ -96,4 +96,5 @@ public class Calculadora {
 
 }
     
+
 
