@@ -7,10 +7,11 @@ package ClassesAbstratas;
 
 /**
  *
- * @author ThainaRibeiroBairros
+ * @author ThainaRibeiro
  */
 public abstract class ABS_Pessoa {
     public abstract void Cadastrar(String nome);//diz que temos que ter o método cadastrar . São as regras de negócio
     public abstract void Cadastrar(String nome , int idade);
     
 }
+
