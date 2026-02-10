@@ -7,7 +7,7 @@ package ExercicioEndereco;
 
 /**
  *
- * @author ThainaRibeiroBairros
+ * @author ThainaRibeiro
  */
 public class Endereco {
 public Endereco(){}//construtor
@@ -71,4 +71,5 @@ public Endereco(String estado, String cidade, String bairro , String rua , Strin
 
 
         
+
   
