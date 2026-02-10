@@ -7,7 +7,7 @@ package ExercicioEndereco;
 
 /**
  *
- * @author ThainaRibeiroBairros
+ * @author ThainaRibeiro
  */
 public class Pessoa {
 public Pessoa(){}//construtor
@@ -26,3 +26,4 @@ public Pessoa(String nome){
     
    protected void finalize() {  }//Descontrutor
 }
+
