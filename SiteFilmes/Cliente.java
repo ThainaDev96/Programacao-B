@@ -7,7 +7,7 @@ package SiteFilmes;
 
 /**
  *
- * @author ThainaRibeiroBairros
+ * @author ThainaRibeiro
  */
 public class Cliente {
     
@@ -18,9 +18,10 @@ public class Cliente {
        String telefone = "";
        String endereco= "";
        
-        void pesquisar()//Método (ação)
+        void pesquisar()//MÃ©todo (aÃ§Ã£o)
     {
         System.out.println("pesquisar filme");
        
 }
+
 }
