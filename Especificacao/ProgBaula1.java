@@ -9,7 +9,7 @@ package Especificacao;
 
 /**
  *
- * @author ThainaRibeiroBairros
+ * @author ThainaRibeiro
  */
 public class ProgBaula1 {
 
@@ -21,3 +21,4 @@ public class ProgBaula1 {
     }
     
 }
+
