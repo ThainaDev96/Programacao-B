@@ -7,7 +7,7 @@ package SiteFilmes;
 
 /**
  *
- * @author ThainaRibeiroBairros
+ * @author ThainaRibeiro
  */
 public class Ator {
     //Atributos
@@ -17,3 +17,4 @@ public class Ator {
        String localNacimento = " ";
      
 }
+
