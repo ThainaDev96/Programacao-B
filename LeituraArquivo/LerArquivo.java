@@ -11,7 +11,7 @@ import java.io.IOException;
 
 /**
  *
- * @author ThainaRibeiroBairros
+ * @author ThainaRibeiro
  */
 public class LerArquivo {
 
@@ -39,3 +39,4 @@ public class LerArquivo {
     }   
     
 }
+
